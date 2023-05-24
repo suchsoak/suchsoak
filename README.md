@@ -114,3 +114,6 @@
 <!-- https://giphy.com/search/Stickers-python-stickers -->
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <!-- https://github.com/trinib/trinib/blob/main/README.md -->
+
+![snake.gif](https://github.com/suchsoak/suchsoak/blog/output/github-contribution-grid-snake.svg
+
