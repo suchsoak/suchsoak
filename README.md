@@ -6,6 +6,7 @@
 <br>
 
 ![suchsoak GitHub stats](https://github-readme-stats.vercel.app/api?username=suchsoak&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats )
 
 <img src="https://media3.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47dgtl6vh0u9jff54qd244e1v0zcajq2ng3a6qfsgz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" center=true></img>
 
