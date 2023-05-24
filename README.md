@@ -11,7 +11,8 @@
 
 <hr>
 
-![suchsoak github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=2077)
+![suchsoak github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=tokyonight)
+
 
 <br>
 <br>
