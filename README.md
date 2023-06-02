@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6906CFFF&center=true&lines=~+Olá+Eu+Sou+M?x!!+~)](https://git.io/typing-svg)
+
+
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6906CFFF&center=true&lines=~+Hello+I'm+m?x!+~)](https://git.io/typing-svg)
+
+</h1>
 
 
 <hr>
@@ -6,14 +12,13 @@
 <br>
 
 ![suchsoak GitHub stats](https://github-readme-stats.vercel.app/api?username=suchsoak&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media3.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47dgtl6vh0u9jff54qd244e1v0zcajq2ng3a6qfsgz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" center=true></img>
 
 <hr>
 
-![suchsoak github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=tokyonight)
-
+![suchsoak github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=2077)
 
 <br>
 <br>
@@ -32,12 +37,12 @@
 <br>
 <br>
 
-# Tecnologias Que Utilizo
+# Technologies I Use
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-## Sistemas Operacionais
-> Sistemas Operacionais que já usei e utilizo.
+## Operating Systems
+> Operating Systems that I have used and use.
 <div class="Sistemas-Operacionais">
 
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
@@ -54,7 +59,7 @@
 <br>
 
 ## Skills
-> Linguagens e scripts.
+> Languages.
 <div>
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
@@ -69,7 +74,7 @@
 <br>
 
 ## Design
-> Programas que utilizo e utilizei.
+> Programs I use and have used.
 <div>
 
 <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></img>
@@ -82,8 +87,8 @@
 
 <br>
 
-## Estudando
-> IDES, Linguagens, Programas e sites a quais estudo.
+## Studying
+> IDES, Linguagens, Programas and Sites I Study.
 
 <div>
 
@@ -107,13 +112,16 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mr.robot&pause=1000&color=8100CF&vCenter=true&width=449&height=111&lines=Obrigado+Por+Ver+Meu+Perfil+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mr.robot&pause=1000&color=8100CF&vCenter=true&width=449&height=111&lines=Thank+you+for+viewing+my+profile+!!)](https://git.io/typing-svg)
 <br>
+
+
 
 <!-- Alguns Sites Utilizados -->
 <!-- https://giphy.com/search/Stickers-python-stickers -->
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <!-- https://github.com/trinib/trinib/blob/main/README.md -->
+<!-- https://animated-fluent-emoji.vercel.app/ -->
 
 
 
