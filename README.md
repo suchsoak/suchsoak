@@ -6,25 +6,26 @@
 
 </h1>
 
-<h1 align="center">
+<div align="center"> 
 
 ![suchsoak github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=2077)
 
 </h1>
 <hr>
- 
+
+  
 
 
-![suchsoak GitHub stats](https://github-readme-stats.vercel.app/api?username=suchsoak&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div align="center"> 
 
 <img src="https://media3.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47dgtl6vh0u9jff54qd244e1v0zcajq2ng3a6qfsgz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" center=true></img>
 <br>
 <br>
 
-
-
-<div class="Redes-">
+<div class="cat">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max14soak@gmail.com)
 [![Proton-Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://)
@@ -110,6 +111,8 @@
 <br>
 
 </div>
+
+![suchsoak GitHub stats](https://github-readme-stats.vercel.app/api?username=suchsoak&show_icons=true&theme=midnight-purple) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mr.robot&pause=1000&color=8100CF&vCenter=true&width=449&height=111&lines=Thank+you+for+viewing+my+profile+!!)](https://git.io/typing-svg)
 <br>
