@@ -111,11 +111,17 @@
 <br>
 
 </div>
+</div>
 
-![suchsoak GitHub stats](https://github-readme-stats.vercel.app/api?username=suchsoak&show_icons=true&theme=midnight-purple) 
+<!-- ![suchsoak GitHub stats](https://github-readme-stats.vercel.app/api?username=suchsoak&show_icons=true&theme=midnight-purple)  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mr.robot&pause=1000&color=8100CF&vCenter=true&width=449&height=111&lines=Thank+you+for+viewing+my+profile+!!)](https://git.io/typing-svg)
 <br>
+
+
 
 
 
