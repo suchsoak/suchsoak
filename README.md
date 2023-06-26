@@ -118,7 +118,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mr.robot&pause=1000&color=8100CF&vCenter=true&width=449&height=111&lines=Thank+you+for+viewing+my+profile+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mr.robot&pause=1000&color=ff0000&vCenter=true&width=449&height=111&lines=Thank+you+for+viewing+my+profile+!!)](https://git.io/typing-svg)
 <br>
 
 
