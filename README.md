@@ -107,6 +107,7 @@
 <img alt="Visual-Studio" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"></img>
 <img alt="Visual-Studio" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></img>
 <img alt="Visual-Studio" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
+<img alt="RUBY" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></img>
 <hr>
 <br>
 <br>
