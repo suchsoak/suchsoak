@@ -40,6 +40,15 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
+</div>
+<br>
+
+## Skills
+> Languages.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+
 ## Operating Systems
 > Operating Systems that I have used and use.
 <div class="Sistemas-Operacionais">
@@ -52,16 +61,6 @@
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
 <img alt="Linux-Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></img>
 <hr>
-
-
-</div>
-<br>
-
-## Skills
-> Languages.
-<div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
  
 <!-- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
 <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
