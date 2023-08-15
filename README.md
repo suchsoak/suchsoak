@@ -123,4 +123,4 @@
 <!-- https://animated-fluent-emoji.vercel.app/ -->
 
 
-
+![snake gif](https://github.com/suchsoak/suchsoak/blob/output/github-contribution-grid-snake.svg)
