@@ -115,14 +115,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mr.robot&pause=1000&color=ff0000&vCenter=true&width=449&height=111&lines=Thank+you+for+viewing+my+profile+!!)](https://git.io/typing-svg)
 <br>
 
-![Snake animation](https://github.com/suchsoak/suchsoak/blob/output/github-contribution-grid-snake-dark.svg
-)
-
 <!-- Alguns Sites Utilizados -->
 <!-- https://giphy.com/search/Stickers-python-stickers -->
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 <!-- https://github.com/trinib/trinib/blob/main/README.md -->
 <!-- https://animated-fluent-emoji.vercel.app/ -->
 
-
 <!-- ![snake gif](https://github.com/suchsoak/suchsoak/blob/output/github-contribution-grid-snake.svg) -->
+
+![Snake animation](https://github.com/suchsoak/suchsoak/blob/output/github-contribution-grid-snake-dark.svg
+)
