@@ -73,7 +73,6 @@
 <div align="center"> 
  
 ## Studying
-> IDES, Linguagens, Programas and Sites I Study.
 
 <div>
 
