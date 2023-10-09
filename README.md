@@ -100,9 +100,7 @@
 
 <!-- ![suchsoak GitHub stats](https://github-readme-stats.vercel.app/api?username=suchsoak&show_icons=true&theme=midnight-purple)  -->
 
-
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mr.robot&pause=1000&color=ff0000&vCenter=true&width=449&height=111&lines=Thank+you+for+viewing+my+profile+!!)](https://git.io/typing-svg)  -->
-<br>
 
 <!-- Alguns Sites Utilizados -->
 <!-- https://giphy.com/search/Stickers-python-stickers -->
@@ -112,5 +110,4 @@
 
 <!-- ![snake gif](https://github.com/suchsoak/suchsoak/blob/output/github-contribution-grid-snake.svg) -->
 
-![Snake animation](https://github.com/suchsoak/suchsoak/blob/output/github-contribution-grid-snake-dark.svg
-)
+![Snake animation](https://github.com/suchsoak/suchsoak/blob/output/github-contribution-grid-snake-dark.svg)
