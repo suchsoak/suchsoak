@@ -12,6 +12,11 @@
 
 ![suchsoak github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=2077)
 
+![suchsoak github](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchsoak&theme=2077)
+
+![suchsoak github](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchsoak&theme=2077)
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div align="center"> 
