@@ -12,7 +12,7 @@
 
 ![suchsoak github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=2077)
 
-![suchsoak github](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchsoak&theme=2077)
+<!--![suchsoak github](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchsoak&theme=2077)-->
 
 ![suchsoak github](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchsoak&theme=2077)
 
