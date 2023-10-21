@@ -33,7 +33,8 @@
 
 ## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&layout=donut-vertical&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
