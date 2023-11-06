@@ -6,6 +6,7 @@
 
 <img src="https://media3.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47dgtl6vh0u9jff54qd244e1v0zcajq2ng3a6qfsgz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" center=true></img>
 
+<img alt="Icon-buymeacoffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></img>
 </h1>
 
 <div align="center"> 
@@ -98,6 +99,11 @@
 <img alt="Visual-Studio" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></img>
 <img alt="RUBY" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></img>
 <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></img>
+<img alt="icon-Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></img>
+<img alt="icon-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=whitek"></img>
+<img alt="icon-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img>
+<img alt="Icon-Tor" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"></img>
+
 <hr>
 <br>
 <br>
