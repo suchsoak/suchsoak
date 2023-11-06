@@ -111,6 +111,9 @@
 
 </div>
 
+This is how many people have visited my account
+
+![Visitor Count](https://profile-counter.glitch.me/suchsoak/count.svg)
 <!-- ![suchsoak GitHub stats](https://github-readme-stats.vercel.app/api?username=suchsoak&show_icons=true&theme=midnight-purple)  -->
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mr.robot&pause=1000&color=ff0000&vCenter=true&width=449&height=111&lines=Thank+you+for+viewing+my+profile+!!)](https://git.io/typing-svg)  -->
