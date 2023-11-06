@@ -6,7 +6,8 @@
 
 <img src="https://media3.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif?cid=ecf05e47dgtl6vh0u9jff54qd244e1v0zcajq2ng3a6qfsgz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" center=true></img>
 
-<img alt="Icon-buymeacoffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></img>
+[![Icon-buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/m100047r)
+
 </h1>
 
 <div align="center"> 
