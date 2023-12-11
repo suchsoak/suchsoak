@@ -35,34 +35,11 @@
 
 ## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&layout=donut-vertical&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&layout=donut-vertical&theme=shadow_red)
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-<!--
-## Operating Systems
-> Operating Systems that I have used and use.
-<div class="Sistemas-Operacionais">
-
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
-<img alt="ARCH LINUX" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></img>
-<img alt="Fedora Linux" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></img>
-<img alt="kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></img>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
-<img alt="Linux-Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"></img>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
-<img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></img>
-<img alt="MARKDOWN" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></img>
-<img alt="Powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"></img>
-<img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-<img alt="CSS-3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img> -->
-
-</div> 
-<br>
-<!--
 
 ## Design
 
