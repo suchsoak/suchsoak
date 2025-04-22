@@ -12,11 +12,11 @@
 
 <div align="center"> 
 
-![suchsoak github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=2077)
+![suchsoak github](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=tokyonight)
 
 <!--![suchsoak github](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchsoak&theme=2077)-->
 
-![suchsoak github](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchsoak&theme=2077)
+![suchsoak github](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchsoak&theme=tokyonight)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&hide_progress=false&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -36,7 +36,7 @@
 
 ## Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&layout=donut-vertical&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suchsoak&layout=donut-vertical&theme=tokyonight)
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
