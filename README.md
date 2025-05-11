@@ -36,7 +36,7 @@ Hello, I'm like programming; I do so many things about technology. Thanks for be
 [![](https://visitcount.itsvg.in/api?id=suchsoak&icon=1&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/m100047r) 
+[![Icon-buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/m100047r)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
