@@ -1,9 +1,8 @@
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 <h1 align="center">
+<img src="https://github.com/suchsoak/suchsoak/blob/main/Banner_2_artigos.png" alt="Banner.png"></img>
 
-
-<img src="https://github.com/suchsoak/suchsoak/blob/main/Banner_2_artigos.png" alt="Banner.png"> </img>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/max_47___/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxsuell-a-b643a6236/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCaxN8LSa-HbJ0L8xeOnI6CQ)
