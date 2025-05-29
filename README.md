@@ -1,5 +1,3 @@
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-
 <h1 align="center">
 <img src="https://github.com/suchsoak/suchsoak/blob/main/Banner_2_artigos.png" alt="Banner.png"></img>
 
