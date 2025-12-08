@@ -7,6 +7,8 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/maxaquiles)
 [![Icon-buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/m100047r)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/suchsoak_1000)
+[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@max_47___?_r=1&_t=ZS-923CwNa2YJW)
+
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6906CFFF&center=true&lines=~+Hello+I'm+~+M?x+~)](https://git.io/typing-svg)
