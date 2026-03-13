@@ -15,6 +15,10 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/suchsoak_1000)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@max_47___?_r=1&_t=ZS-923CwNa2YJW)
 
+<p align="center">
+<img src="https://github.com/suchsoak/suchsoak/blob/main/Spider/Spider.gif" alt="Spider.gif">
+</p>
+
 </h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
