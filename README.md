@@ -1,12 +1,12 @@
 <!-- Animated Wave Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=210&section=header&text=Maxsuell%20%C2%B7%20%40suchsoak&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Developer%20%C2%B7%20Designer%20%C2%B7%20Creative%20Technologist&descAlignY=58&descSize=16&animation=twinkling" alt="Maxsuell Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:fe428e,100:a9fef7&height=210&section=header&text=Maxsuell%20%C2%B7%20%40suchsoak&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Developer%20%C2%B7%20Designer%20%C2%B7%20Creative%20Technologist&descAlignY=58&descSize=16&animation=twinkling" alt="Maxsuell Header Banner" />
 </div>
 
 <!-- Animated Typing Headline -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&width=720&height=48&lines=Hey!%20I'm%20Maxsuell%20(%40suchsoak)%20%F0%9F%91%8B;Developer%20%C2%B7%20Designer%20%C2%B7%20Creative%20Technologist;Code%20%C2%B7%203D%20%26%20Graphic%20Design%20%C2%B7%20Cloud%20%26%20Automation;Always%20building%20something%20new%20in%20tech%20%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3200&pause=900&color=FE428E&center=true&vCenter=true&multiline=false&width=720&height=48&lines=Hey!%20I'm%20Maxsuell%20(%40suchsoak)%20%F0%9F%91%8B;Developer%20%C2%B7%20Designer%20%C2%B7%20Creative%20Technologist;Code%20%C2%B7%203D%20%26%20Graphic%20Design%20%C2%B7%20Cloud%20%26%20Automation;Always%20building%20something%20new%20in%20tech%20%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,7 +27,7 @@
       <h3>⚡ Connect & Explore My Work</h3>
       <p>Developer · Designer · Creative Technologist</p>
       <p>
-        <img src="https://komarev.com/ghpvc/?username=suchsoak&label=PROFILE%20VIEWS&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+        <img src="https://komarev.com/ghpvc/?username=suchsoak&label=PROFILE%20VIEWS&color=FE428E&style=for-the-badge" alt="Profile Views" />
       </p>
     </td>
     <td width="22%" align="center">
@@ -94,10 +94,10 @@
   <table>
     <tr>
       <td align="center">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=tokyonight" alt="Profile Details" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchsoak&theme=radical" alt="Profile Details" />
       </td>
       <td align="center">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchsoak&theme=tokyonight" alt="Top Languages" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suchsoak&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -107,15 +107,15 @@
   <table>
     <tr>
       <td align="center">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchsoak&theme=tokyonight" alt="GitHub Stats" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suchsoak&theme=radical" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchsoak&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suchsoak&theme=radical&utcOffset=-3" alt="Productive Time" />
       </td>
     </tr>
   </table>
   <br />
-  <img src="https://streak-stats.demolab.com/?user=suchsoak&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=suchsoak&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="16" width="100%" alt="Animated Rainbow Divider" />
@@ -182,5 +182,5 @@
 
 <!-- Animated Wave Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=120&section=footer&animation=twinkling" alt="Footer Wave" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:fe428e,100:a9fef7&height=120&section=footer&animation=twinkling" alt="Footer Wave" />
 </div>
